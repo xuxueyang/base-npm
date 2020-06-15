@@ -20,11 +20,13 @@
   },
   "homepage": "https://github.com/xuxueyang/base-npm#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "element-ui": "^2.13.2"
   },
   "devDependencies": {
     "karma": "^5.1.0",
     "karma-chrome-launcher": "^3.1.0",
-    "karma-mocha": "^2.0.1"
+    "karma-mocha": "^2.0.1",
+    "mockjs": "^1.1.0"
   }
 }
