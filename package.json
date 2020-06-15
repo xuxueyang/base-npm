@@ -1,0 +1,30 @@
+{
+  "name": "xuxy-npm",
+  "version": "0.0.2",
+  "description": "徐雪阳自己的基础架包（qq：1059738716）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxueyang/base-npm.git"
+  },
+  "keywords": [
+    "xuxy-npm"
+  ],
+  "author": "1059738716@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxueyang/base-npm/issues"
+  },
+  "homepage": "https://github.com/xuxueyang/base-npm#readme",
+  "dependencies": {
+    "element-ui": "^2.13.2"
+  },
+  "devDependencies": {
+    "karma": "^5.1.0",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-mocha": "^2.0.1"
+  }
+}
